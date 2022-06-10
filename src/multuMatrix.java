@@ -32,7 +32,7 @@ public class multuMatrix {
             }
         }
         System.out.println(Arrays.deepToString(multiMatrix(array1, array2)));
-
+        System.out.println();
     }
 }
 //“¿«» ﬂ œ–≈¡Œ–»’
